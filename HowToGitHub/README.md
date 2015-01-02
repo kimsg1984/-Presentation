@@ -1,4 +1,6 @@
-### 완전 초보자를 위한 깃허브
+### How To GitHub
+
+- 완전 초보자를 위한 깃허브
 https://nolboo.github.io/blog/2013/10/06/github-for-beginner/
 
 - [슬라이드] 버전관리를 들어본적 없는 사람들을 위한 DVCS-Git  
