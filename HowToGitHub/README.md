@@ -12,9 +12,6 @@ http://bitdrift.com/post/4534738938/fork-your-own-project-on-github
 - 깃 간편안내서  
 http://rogerdudler.github.io/git-guide/index.ko.html
 
-- [슬라이드] 이클립스에서의 깃헙 사용법  
-http://www.slideshare.net/UyeongJu/git-15379130?related=1
-
 #### 에러관리
 - 윈도우에서 깃헙 설치 후 커밋이 안될 때  
 http://egloos.zum.com/happyzen/v/2886069
@@ -40,3 +37,5 @@ http://unikys.tistory.com/323
 http://unikys.tistory.com/330  
 - 인트라넷에서 깃헙처럼  
 https://gitorious.org
+- [슬라이드] 이클립스에서의 깃헙 사용법  
+http://www.slideshare.net/UyeongJu/git-15379130?related=1
