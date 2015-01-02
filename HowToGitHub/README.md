@@ -17,10 +17,10 @@ http://rogerdudler.github.io/git-guide/index.ko.html
 http://egloos.zum.com/happyzen/v/2886069
 
 - 깃 소스수정 중복으로 애러가 날 때  
-
-    git fetch --all
-    git reset --hard origin/master
-
+```
+git fetch --all
+git reset --hard origin/master
+```
 
 #### 터미널 명령어
 
