@@ -9,8 +9,8 @@
 
 #### 여기까지 오게 된 과정  
 
-- [커뮤니티 글타레: 오픈소스로 사무실 갈아엎은 이야기](http://www.ubuntu-kr.org/viewtopic.php?f=25&t=24565)  
-- [커뮤니티 글타레: 스크라이버스로 제작한 플래너 폼(파이썬 메일멋지)](http://www.ubuntu-kr.org/viewtopic.php?f=25&t=23601)  
+- [커뮤니티 글타레: 오픈소스로 사무실 갈아엎은 이야기](https://forum.ubuntu-kr.org/viewtopic.php?f=25&t=24565)  
+- [커뮤니티 글타레: 스크라이버스로 제작한 플래너 폼(파이썬 메일멋지)](https://forum.ubuntu-kr.org/viewtopic.php?f=25&t=23601)  
 
 
 #### G<sub>etting</sub> T<sub>hings</sub> D<sub>one</sub>  
@@ -23,11 +23,11 @@
 
 - [스노위(Gnorm에서 구현: 웹에서 톰보이 파일 조회가 가능)](http://live.gnome.org/Snowy)  
 - [깃헙:톰보이 웹서비스(자체구현)](https://github.com/kimsg1984/tomboy_web_service)
-    + [커뮤니티 글타레: 톰보이 웹서비스를 만들었습니다](http://www.ubuntu-kr.org/viewtopic.php?f=4&t=23407) # 톰보이 웹서비스에 관한 글타레
+    + [커뮤니티 글타레: 톰보이 웹서비스를 만들었습니다](https://forum.ubuntu-kr.org/viewtopic.php?f=4&t=23407) # 톰보이 웹서비스에 관한 글타레
     + 웹서비스 구현까지의 과정들    
-        + [커뮤니티 글타레: 우분투에서 쓸 수 있는 '위키형' 어플이 톰보이/지노트 말고 또 있을까요?](http://www.ubuntu-kr.org/viewtopic.php?p=105226#p105226)
-        + [커뮤니티 글타레: 에버노트에서 갈아탈려고 하는중인데...](http://www.ubuntu-kr.org/viewtopic.php?f=4&t=22627&p=105320&hilit=%ED%86%B0%EB%B3%B4%EC%9D%B4#p105320)
-        + [커뮤니티 글타레: 우분투는 한정된 사용자에게만 능력을 발휘하게 해주는 운영체제일까요?](http://www.ubuntu-kr.org/viewtopic.php?f=4&t=25234&p=114883&hilit=%ED%86%B0%EB%B3%B4%EC%9D%B4#p114883)
+        + [커뮤니티 글타레: 우분투에서 쓸 수 있는 '위키형' 어플이 톰보이/지노트 말고 또 있을까요?](https://forum.ubuntu-kr.org/viewtopic.php?p=105226#p105226)
+        + [커뮤니티 글타레: 에버노트에서 갈아탈려고 하는중인데...](https://forum.ubuntu-kr.org/viewtopic.php?f=4&t=22627&p=105320&hilit=%ED%86%B0%EB%B3%B4%EC%9D%B4#p105320)
+        + [커뮤니티 글타레: 우분투는 한정된 사용자에게만 능력을 발휘하게 해주는 운영체제일까요?](https://forum.ubuntu-kr.org/viewtopic.php?f=4&t=25234&p=114883&hilit=%ED%86%B0%EB%B3%B4%EC%9D%B4#p114883)
         
 
 
